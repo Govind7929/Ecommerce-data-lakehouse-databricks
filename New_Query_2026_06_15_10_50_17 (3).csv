@@ -1,0 +1,53 @@
+brand_code,brand_name,category_code,_source_file,ingested_at
+ACME,AcmeTech,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+NOVW,  NovaWave ,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+ZNTH,Zenith,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+BYTM,ByteMax,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+ECOT,EcoTone,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+SKYL,SkyLink,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+VOLT@,VoltEdge,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+PHTX,Photonix,CE,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+URTL,UrbanTrail,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+COTC,CottonClub,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+FTFX,FitFlex,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+ABLF,AmberLeaf,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+MOSA,  Mosaic ,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+NTHR,  NorthThread ,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+CBLT,CobaltWear,APP,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+CKMT@,CookMate,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+HMNS,HomeNest,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+PRLV,PureLiving,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+CSNV@,CasaNova,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+AQPR,AquaPure,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+STCR,SteelCraft,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+WRMH,  WarmHearth ,HNK,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+GLOW*,  GlowOn ,BPC,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+HRBC,  HerbaCare ,BPC,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+DMLX,DermaLux,BPC,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+SLKE,SilkEssence,BPC,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+ALMS,AloeMist,BPC,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+BTNQ,Botaniq,BPC,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+BLIN,BlueInk,BOOKS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+PGTR@,PageTurner,BOOKS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+RDMR,ReadMore,BOOKS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+QLHS!,  QuillHouse ,BKS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+STAC,StoryArc,BKS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+LFSP,Leaf&Spine,BKS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+FRFL,FreshFields,GROCERY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+DLHV,  DailyHarvest ,GRCY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+GRBK,  GreenBasket ,GROCERY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+NTCH,  NutriChoice ,GRCY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+GGRN,GoodGrain,GROCERY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+FRMJ,FarmJoy,GRCY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+PLCB,PlayCube,TOY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+HPFN*,  HappyFun ,TOYS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+GMFG@,GameForge,TOY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+KDLN,KiddoLand,TOYS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+TNGR@,TinyGears,TOY,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+RKBR*,  RocketBear ,TOYS,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+PRSD,  ProStride ,SPT,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+TRBZ,TrailBlazer,SPT,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+ARFT,AeroFit,SPT,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+PKPR,PeakPro,SPT,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+SMLN,  SummitLine ,SPT,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
+SWCR,  SwiftCore ,SPT,dbfs:/Volumes/ecommerce/source_data/raw/brands/brands.csv,2026-06-13T18:09:52.298Z
